@@ -31,6 +31,8 @@ Also to include the programs used:
 - Node.js
 - Mongoose
 - Express
+- Cache
+- IndexedDB
 
 ## License
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
