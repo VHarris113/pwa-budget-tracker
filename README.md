@@ -9,11 +9,12 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
+This is a simple app to keep track of your finances and allowing for the user to maintain the data entered even if they lose internet. Thanks to the data persisting within the cache of the browser.
 
+![Screenshot](https://github.com/VHarris113/pwa-budget-tracker/blob/main/assets/screencap1.png)
 
 ## Usage
-![Gif]()
-
+The usage of this app is simple. To initialize, please begin go to the link of the site listed below. You are able to add your data into the fields of "Name" and "Transaction Amount". Once you do that, then you can add or subtract funds from your budget. If you happy to go offline and need to catalog the necessary data, then the data will persist thanks to the cache features of this app.
 ## Installation
 
 Please place into your Terminal or GitBash with the code:
